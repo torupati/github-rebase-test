@@ -14,4 +14,11 @@ git push -u origin main
 
 main update
 
+```
+$ git log --oneline --graph
+* db94a3a (HEAD -> main, origin/main) main second
+* bca9186 first commit
+```
+
+こういう感じでmain を進めています。
 
